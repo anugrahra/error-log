@@ -1,7 +1,7 @@
 # error-log
 catatan error gue yang seringkali cemen banget itu errornya
 
-Daftar Isi:
+<b>Daftar Isi:</b>
 <ul>
   <li>
     <a href="#javascript">Javascript</a>
